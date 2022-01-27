@@ -1,6 +1,5 @@
+# Business Feature: "Article Families"
 > TODO: Add Domain Dictionary
-
-#Business Feature: "Article Families"
 
 ## Description of feature
 
